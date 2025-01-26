@@ -1,12 +1,8 @@
-# Plantilla para proyectos de react
-
-Landing Page
-------
-# Plantilla para proyectos de react
+# Sprint 2 modulo de veterinario
 
 Perfil de Veterinario
 ------
-![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-1.png)
+![{7364FD2A-598B-4D87-A037-FD89E5A39CD9}](https://github.com/user-attachments/assets/61041948-8a8c-4b59-8a35-4388a53af258)
 
 
 Listar Pacientes
@@ -28,7 +24,3 @@ Registrar Tratamiendo
 Actualizar Paciente
 ------
 ![{7B18460C-6743-4894-BBAE-6AC332B29FFE}](https://github.com/user-attachments/assets/1fc40fa3-4657-44bc-afe4-4f11eb5a2dd7)
-
-Dashboard
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-7.png)
